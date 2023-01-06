@@ -1,7 +1,7 @@
 name: flutter_bugly
 description: A new Flutter Bugly.
-version: 1.4.0
-homepage: none
+version: 1.0.0
+homepage: https://github.com/ewgcat/flutter_bugly
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
