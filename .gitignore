@@ -1,0 +1,67 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.fvm/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+.metadata
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+**/ios/Podfile.lock
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Exceptions to above rules.
+!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+ios/build/XCBuildData/3461ec3632c606cb421239f14e5ad995-desc.xcbuild
+ios/build/XCBuildData/3461ec3632c606cb421239f14e5ad995-manifest.xcbuild
+ios/build/XCBuildData/a6b6c7906e119ebf7e4e0f438a413afe-desc.xcbuild
+ios/build/XCBuildData/a6b6c7906e119ebf7e4e0f438a413afe-manifest.xcbuild
+ios/build/XCBuildData/b4809af5ea281c3af0ab08921bec5725-desc.xcbuild
+ios/build/XCBuildData/b4809af5ea281c3af0ab08921bec5725-manifest.xcbuild
+ios/build/XCBuildData/build.db
+ios/build/XCBuildData/BuildDescriptionCacheIndex-fab694717d3953d9b8bec0ef68f4ea91
+ios/build/XCBuildData/e6e2569b2bad8650179243e82c291d31-desc.xcbuild
+ios/build/XCBuildData/e6e2569b2bad8650179243e82c291d31-manifest.xcbuild
+
+pubspec.lock
+/plugins/flutter_bmflocation/example/ios/Flutter/flutter_export_environment.sh
+/plugins/flutter_bmflocation/example/ios/Flutter/Generated.xcconfig
+/plugins/flutter_bmflocation/example/ios/Runner/GeneratedPluginRegistrant.h
+/plugins/flutter_bmflocation/example/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+/plugins/flutter_bmflocation/example/ios/Runner/GeneratedPluginRegistrant.m
+/plugins/flutter_bmflocation/example/android/local.properties
+
