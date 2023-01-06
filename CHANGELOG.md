@@ -1,3 +1,3 @@
-## 0.0.1
-
-* TODO: Describe initial release.
+## v1.0.0
+### 集成bulgy 异常日志上报
+### 安卓 全量更新功能
